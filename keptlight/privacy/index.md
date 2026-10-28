@@ -25,7 +25,10 @@ This data is stored only in the app on your iPhone. We cannot see it. If you del
 - We do not sell or share your information, because we do not have it.
 
 ## Photos
-Keptlight asks to use a photo you choose. The photo is processed on your device to build your picture and is never uploaded by the app.
+You choose one photo with the iOS photo picker, so Keptlight does not get access to your photo library. The app builds your picture on your device and keeps a smaller copy of that photo in its own private storage on your device. It is never uploaded. If you choose to save your finished picture, Keptlight adds it to your photo library, which is the only photo permission the app asks for.
+
+## Notifications
+If you turn on reminders, they are scheduled on your device by iOS. They use no server, and you can turn them off at any time in iOS Settings.
 
 ## Backups
 Your iPhone may include app data in your own iCloud or computer backups, under your own Apple settings. That is controlled by Apple and you, not by us.

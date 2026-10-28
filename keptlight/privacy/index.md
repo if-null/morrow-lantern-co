@@ -4,7 +4,7 @@ title: Keptlight Privacy Policy
 ---
 # Keptlight Privacy Policy
 
-Effective date: [DATE PUBLISHED]
+Effective date: October 28, 2026
 
 Keptlight is an iPhone app published by Morrow Lantern Co. LLC, an Idaho limited liability company ("we", "us").
 
@@ -27,9 +27,6 @@ This data is stored only in the app on your iPhone. We cannot see it. If you del
 ## Photos
 Keptlight asks to use a photo you choose. The photo is processed on your device to build your picture and is never uploaded by the app.
 
-## Notifications
-[ONLY IF NOTIFICATIONS SHIP: Keptlight can send reminders. They are scheduled on your device and use no server. You can turn them off in iOS Settings.]
-
 ## Backups
 Your iPhone may include app data in your own iCloud or computer backups, under your own Apple settings. That is controlled by Apple and you, not by us.
 
@@ -43,6 +40,6 @@ Keptlight does not knowingly collect information from anyone, including children
 If this policy changes, we will post the new version here and update the date above.
 
 ## Contact
-Questions about this policy: [support@morrowlanternco.com]
+Questions about this policy: morrowlanternco@protonmail.com
 
 Morrow Lantern Co. LLC, Idaho

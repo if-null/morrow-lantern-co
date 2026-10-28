@@ -4,7 +4,7 @@ title: Keptlight Support
 ---
 # Keptlight Support
 
-Need help with Keptlight, or have feedback? Email **[support@morrowlanternco.com]**. We read every message and aim to reply within a few business days.
+Need help with Keptlight, or have feedback? Email **morrowlanternco@protonmail.com**. We read every message and aim to reply within a few business days.
 
 Please include your iPhone model, iOS version, and what you saw.
 
@@ -21,8 +21,6 @@ Please include your iPhone model, iOS version, and what you saw.
 **Can I start over?** Yes. Start a new picture anytime. Your streak counts stay.
 
 **Does Keptlight give medical advice?** No. It is a personal tracking and motivation tool. Talk to a doctor before starting a fasting schedule, especially a long fast or if you have a health condition, are pregnant, or have a history of disordered eating.
-
-[VERIFY WITH WORKSHOP BEFORE PUBLISHING: restore purchases / pricing question, if a paywall is added.]
 
 ## Privacy
 Read the [Privacy Policy](../privacy/).

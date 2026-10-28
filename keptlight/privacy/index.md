@@ -1,0 +1,48 @@
+---
+layout: default
+title: Keptlight Privacy Policy
+---
+# Keptlight Privacy Policy
+
+Effective date: [DATE PUBLISHED]
+
+Keptlight is an iPhone app published by Morrow Lantern Co. LLC, an Idaho limited liability company ("we", "us").
+
+## The short version
+Keptlight does not collect, store, or share your personal information. Everything you enter stays on your device.
+
+## What stays on your device
+- Your goals, fasting times, kept and missed days, and streak counts.
+- The photo you pick for your picture, and the mosaic made from it.
+- Your settings.
+
+This data is stored only in the app on your iPhone. We cannot see it. If you delete the app, it is removed with the app.
+
+## What we do not do
+- We do not require an account or sign-up.
+- We do not collect your name, email address, location, health data, contacts, or device identifiers.
+- We do not use analytics, advertising, or tracking tools, and we do not include third-party SDKs that collect data.
+- We do not sell or share your information, because we do not have it.
+
+## Photos
+Keptlight asks to use a photo you choose. The photo is processed on your device to build your picture and is never uploaded by the app.
+
+## Notifications
+[ONLY IF NOTIFICATIONS SHIP: Keptlight can send reminders. They are scheduled on your device and use no server. You can turn them off in iOS Settings.]
+
+## Backups
+Your iPhone may include app data in your own iCloud or computer backups, under your own Apple settings. That is controlled by Apple and you, not by us.
+
+## Health and fasting
+Keptlight is a personal tracking and motivation tool. It does not give medical advice. It does not read from or write to Apple Health.
+
+## Children
+Keptlight does not knowingly collect information from anyone, including children.
+
+## Changes
+If this policy changes, we will post the new version here and update the date above.
+
+## Contact
+Questions about this policy: [support@morrowlanternco.com]
+
+Morrow Lantern Co. LLC, Idaho

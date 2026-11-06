@@ -6,6 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <style>
+      header { width: 330px; }
+      @media print, screen and (max-width: 960px) {
+        header { width: auto; }
+      }
+    </style>
     {% include head-custom.html %}
   </head>
   <body>

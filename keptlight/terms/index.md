@@ -6,7 +6,7 @@ title: Kept Light Terms of Use
 
 Effective date: October 28, 2026
 
-These terms cover your use of the Kept Light iPhone app, published by Morrow Lantern Co. LLC, an Idaho limited liability company ("we", "us"). By downloading or using Kept Light you agree to them. If you do not agree, please do not use the app.
+These terms cover your use of the Kept Light iPhone app, published by Morrow Lantern Co. LLC, a limited liability company ("we", "us"). By downloading or using Kept Light you agree to them. If you do not agree, please do not use the app.
 
 ## Apple's terms also apply
 You get Kept Light under Apple's standard [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). If these terms and Apple's conflict, Apple's terms control for the license, and these terms control for everything else. Apple is not responsible for Kept Light or for support for it.
@@ -55,4 +55,4 @@ These terms are governed by the laws of the State of Idaho, United States, excep
 ## Contact
 Questions about these terms: morrowlanternco@protonmail.com
 
-Morrow Lantern Co. LLC, Idaho
+Morrow Lantern Co. LLC

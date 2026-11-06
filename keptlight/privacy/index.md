@@ -6,7 +6,7 @@ title: Kept Light Privacy Policy
 
 Effective date: October 28, 2026
 
-Kept Light is an iPhone app published by Morrow Lantern Co. LLC, an Idaho limited liability company ("we", "us").
+Kept Light is an iPhone app published by Morrow Lantern Co. LLC, a limited liability company ("we", "us").
 
 ## The short version
 Kept Light does not collect, store, or share your personal information. Everything you enter stays on your device.
@@ -49,4 +49,4 @@ If this policy changes, we will post the new version here and update the date ab
 ## Contact
 Questions about this policy: morrowlanternco@protonmail.com
 
-Morrow Lantern Co. LLC, Idaho
+Morrow Lantern Co. LLC
